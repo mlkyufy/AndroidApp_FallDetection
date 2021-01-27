@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity Recognition</string>
+    <string name="activity">Activity</string>
+    <string name="probability">Probability</string>
+    <string name="acc_x">acc x</string>
+    <string name="acc_y">acc y</string>
+    <string name="acc_z">acc z</string>
+    <string name="gyro_x">gyro x</string>
+    <string name="gyro_y">gyro y</string>
+    <string name="gyro_z">gyro z0</string>
+    <string name="log">Log</string>
+    <string name="none">None</string>
+    <string name="first">1</string>
+    <string name="second">2</string>
+    <string name="third">3</string>
+    <string name="forth">4</string>
+    <string name="fift">5</string>
+    <string name="sixt">6</string>
+</resources>
+
